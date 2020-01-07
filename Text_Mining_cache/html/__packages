@@ -1,0 +1,15 @@
+base
+dplyr
+tidytext
+janeaustenr
+stringr
+ggplot2
+gutenbergr
+tidyr
+scales
+RColorBrewer
+wordcloud
+reshape2
+forcats
+igraph
+ggraph
